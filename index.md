@@ -392,7 +392,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
       <tr> <td>09:00</td>  <td>Python</td> </tr>
       <tr> <td>10:15</td>  <td>Morning break</td> </tr>
       <tr> <td>10:30</td>  <td>Python (Continued)</td> </tr>
-      <tr> <td>11:30</td>  <td>Final Wrap-up</td> </tr>
+      <tr> <td>11:30</td>  <td>Final Wrap-up and <a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank">Post-workshop Survey</a></td> </tr>
       <tr> <td>12:00</td>  <td>END</td> </tr>
     </table>
   </div>
@@ -416,23 +416,13 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
       <tr> <td>09:00</td>  <td>R</td> </tr>
       <tr> <td>10:15</td>  <td>Morning break</td> </tr>
       <tr> <td>10:30</td>  <td>R (Continued)</td> </tr>
-      <tr> <td>11:30</td>  <td>Final Wrap-up</td> </tr>
+      <tr> <td>11:30</td>  <td>Final Wrap-up and <a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank">Post-workshop Survey</a></td> </tr>
       <tr> <td>12:00</td>  <td>END</td> </tr>
     </table>
   </div>
 </div>
 
 
-<!--
-      <tr> <td>16:30</td>  <td><a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank">Post-workshop Survey</a></td> </tr>
--->      
-{% if site.carpentry == "swc" %}
-{% include swc/schedule.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/schedule.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/schedule.html %}
-{% endif %}
 
 <hr/>
 
