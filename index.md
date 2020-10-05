@@ -325,13 +325,62 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 <h2 id="schedule">Schedule</h2>
 
 <h3>Bash + Git -- Monday PM/Tuesday AM cohort</h3>
+<div class="row">
+  <div class="col-md-6">
+    <h3>Monday, October 12: Automating Tasks with the Unix Shell</h3>
+    <table class="table table-striped">
+      <tr> <td>Before</td> <td><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop survey</a> </td> </tr>
+      <tr> <td>13:00</td>  <td>Automating Tasks with the Unix Shell</td> </tr>
+      <tr> <td>14:15</td>  <td>Morning break</td> </tr>
+      <tr> <td>14:30</td>  <td>Automating Tasks with the Unix Shell (Continued)</td> </tr>
+      <tr> <td>15:45</td>  <td>Wrap-up</td> </tr>
+      <tr> <td>16:00</td>  <td>END</td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Tuesday, October 13: Version Control with Git</h3>
+    <table class="table table-striped">
+      <tr> <td>09:00</td>  <td>Version Control with Git</td> </tr>
+      <tr> <td>10:15</td>  <td>Morning break</td> </tr>
+      <tr> <td>10:30</td>  <td>Version Control with Git (Continued)</td> </tr>
+      <tr> <td>11:45</td>  <td>Wrap-up</td> </tr>
+      <tr> <td>12:00</td>  <td>END</td> </tr>
+    </table>
+  </div>
+</div>
 
 <h3>Bash + Git -- Tuesday AM/Tuesday PM cohort</h3>
+<div class="row">
+  <div class="col-md-6">
+    <h3>Tuesday, October 13 (AM): Automating Tasks with the Unix Shell</h3>
+    <table class="table table-striped">
+      <tr> <td>Before</td> <td><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop survey</a> </td> </tr>
+      <tr> <td>09:00</td>  <td>Automating Tasks with the Unix Shell</td> </tr>
+      <tr> <td>10:15</td>  <td>Morning break</td> </tr>
+      <tr> <td>10:30</td>  <td>Automating Tasks with the Unix Shell (Continued)</td> </tr>
+      <tr> <td>11:45</td>  <td>Wrap-up</td> </tr>
+      <tr> <td>12:00</td>  <td>END</td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Tuesday, October 13 (PM): Version Control with Git</h3>
+    <table class="table table-striped">
+      <tr> <td>13:00</td>  <td>Version Control with Git</td> </tr>
+      <tr> <td>14:15</td>  <td>Morning break</td> </tr>
+      <tr> <td>14:30</td>  <td>Version Control with Git (Continued)</td> </tr>
+      <tr> <td>15:45</td>  <td>Wrap-up</td> </tr>
+      <tr> <td>16:00</td>  <td>END</td> </tr>
+    </table>
+  </div>
+</div>
 
 <h3>Python track -- Wednesday PM/Thursday AM</h3>
 
 <h3>R track -- Wednesday PM/Thursday AM</h3>
 
+<!--
+      <tr> <td>16:30</td>  <td><a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank">Post-workshop Survey</a></td> </tr>
+-->      
 {% if site.carpentry == "swc" %}
 {% include swc/schedule.html %}
 {% elsif site.carpentry == "dc" %}
