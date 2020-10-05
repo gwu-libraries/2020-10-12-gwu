@@ -331,7 +331,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
     <table class="table table-striped">
       <tr> <td>Before</td> <td><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop survey</a> </td> </tr>
       <tr> <td>13:00</td>  <td>Automating Tasks with the Unix Shell</td> </tr>
-      <tr> <td>14:15</td>  <td>Morning break</td> </tr>
+      <tr> <td>14:15</td>  <td>Afternoon break</td> </tr>
       <tr> <td>14:30</td>  <td>Automating Tasks with the Unix Shell (Continued)</td> </tr>
       <tr> <td>15:45</td>  <td>Wrap-up</td> </tr>
       <tr> <td>16:00</td>  <td>END</td> </tr>
@@ -366,7 +366,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
     <h4>Tuesday, October 13 (PM): Version Control with Git</h4>
     <table class="table table-striped">
       <tr> <td>13:00</td>  <td>Version Control with Git</td> </tr>
-      <tr> <td>14:15</td>  <td>Morning break</td> </tr>
+      <tr> <td>14:15</td>  <td>Afternoon break</td> </tr>
       <tr> <td>14:30</td>  <td>Version Control with Git (Continued)</td> </tr>
       <tr> <td>15:45</td>  <td>Wrap-up</td> </tr>
       <tr> <td>16:00</td>  <td>END</td> </tr>
@@ -375,8 +375,53 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 </div>
 
 <h3>Python track -- Wednesday PM/Thursday AM</h3>
+<div class="row">
+  <div class="col-md-6">
+    <h4>Wednesday, October 14 (PM): Python Part 1</h4>
+    <table class="table table-striped">
+      <tr> <td>13:00</td>  <td>Python</td> </tr>
+      <tr> <td>14:30</td>  <td>Morning break</td> </tr>
+      <tr> <td>14:45</td>  <td>Python (Continued)</td> </tr>
+      <tr> <td>16:15</td>  <td>Wrap-up</td> </tr>
+      <tr> <td>16:30</td>  <td>END</td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h4>Thursday, October 15 (AM): Python Part 2</h4>
+    <table class="table table-striped">
+      <tr> <td>09:00</td>  <td>Python</td> </tr>
+      <tr> <td>10:15</td>  <td>Morning break</td> </tr>
+      <tr> <td>10:30</td>  <td>Python (Continued)</td> </tr>
+      <tr> <td>11:30</td>  <td>Final Wrap-up</td> </tr>
+      <tr> <td>12:00</td>  <td>END</td> </tr>
+    </table>
+  </div>
+</div>
 
 <h3>R track -- Wednesday PM/Thursday AM</h3>
+<div class="row">
+  <div class="col-md-6">
+    <h4>Wednesday, October 14 (PM): R Part 1</h4>
+    <table class="table table-striped">
+      <tr> <td>13:00</td>  <td>R </td> </tr>
+      <tr> <td>14:30</td>  <td>Morning break</td> </tr>
+      <tr> <td>14:45</td>  <td>R (Continued)</td> </tr>
+      <tr> <td>16:15</td>  <td>Wrap-up</td> </tr>
+      <tr> <td>16:30</td>  <td>END</td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h4>Thursday, October 15 (AM): R Part 2</h4>
+    <table class="table table-striped">
+      <tr> <td>09:00</td>  <td>R</td> </tr>
+      <tr> <td>10:15</td>  <td>Morning break</td> </tr>
+      <tr> <td>10:30</td>  <td>R (Continued)</td> </tr>
+      <tr> <td>11:30</td>  <td>Final Wrap-up</td> </tr>
+      <tr> <td>12:00</td>  <td>END</td> </tr>
+    </table>
+  </div>
+</div>
+
 
 <!--
       <tr> <td>16:30</td>  <td><a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank">Post-workshop Survey</a></td> </tr>
