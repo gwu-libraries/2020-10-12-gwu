@@ -96,13 +96,15 @@ INTRODUCTION
 Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
-{% if site.carpentry == "swc" %}
-{% include swc/intro.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/intro.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/intro.html %}
-{% endif %}
+
+<p id="who">
+  <strong>Who:</strong>
+  This course is for GWU graduate students, faculty, and other researchers. Advanced undergraduates are also welcome. (Affiliates of CTSI are also invited.).
+  <strong>
+    You don't need to have any previous knowledge of the tools
+    that will be presented at the workshop.
+  </strong>
+</p>
 
 {% comment %}
 AUDIENCE
