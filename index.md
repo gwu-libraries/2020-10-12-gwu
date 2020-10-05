@@ -379,13 +379,13 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
   <div class="col-md-6">
     <h4>Wednesday, October 14 (PM): Python Part 1</h4>
     <table class="table table-striped">
-      <tr> <td>13:00</td><td>Variables</td> </tr>
-      <tr> <td>X</td><td>Types and Conversions</td> </tr>
-      <tr> <td>X</td>Indexing and slicing strings and lists</td></tr>
-      <tr> <td>X</td>Dictionaries</td></tr>
-      <tr> <td>X</td>Loops and Conditionals</td></tr>
-      <tr> <td>16:15</td>  <td>Wrap-up</td> </tr>
-      <tr> <td>16:30</td>  <td>END</td> </tr>
+      <tr> <td>13:00</td> <td>Variables</td> </tr>
+      <tr> <td></td> <td>Types and Conversions</td> </tr>
+      <tr> <td></td> <td>Indexing and slicing strings and lists</td></tr>
+      <tr> <td></td> <td>Dictionaries</td></tr>
+      <tr> <td></td> <td>Loops and Conditionals</td></tr>
+      <tr> <td>16:15</td> <td>Wrap-up</td> </tr>
+      <tr> <td>16:30</td> <td>END</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
