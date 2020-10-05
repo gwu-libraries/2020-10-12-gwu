@@ -418,7 +418,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
     <h4>Thursday, October 15 (AM): R Part 2</h4>
     <table class="table table-striped">
       <tr> <td>09:00</td>  <td><a href="https://datacarpentry.org/r-socialsci/03-dplyr-tidyr/index.html">Manipulating Data Frames with <code>dplyr</code></a></td> </tr>
-      <tr> <td>10:30</td>  <td><a href="https://datacarpentry.org/r-socialsci/04-ggplot2/index.html">Data Visualisation with <code>ggplot2</code></a></td> </tr>
+      <tr> <td></td>  <td><a href="https://datacarpentry.org/r-socialsci/04-ggplot2/index.html">Data Visualisation with <code>ggplot2</code></a></td> </tr>
       <tr> <td>11:30</td>  <td>Final Wrap-up<br><a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank">Post-workshop Survey</a></td> </tr>
       <tr> <td>12:00</td>  <td>END</td> </tr>
     </table>
