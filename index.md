@@ -502,10 +502,8 @@ These are the installation instructions for the tools used
 during the workshop.
 {% endcomment %}
 
-{% if site.carpentry == "swc" %}
-{% include swc/setup.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/setup.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/setup.html %}
-{% endif %}
+{% include install_instructions/shell.html %}
+{% include install_instructions/git.html %}
+{% include install_instructions/editor.html %}
+{% include install_instructions/python.html %}
+{% include install_instructions/r.html %}
