@@ -379,9 +379,11 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
   <div class="col-md-6">
     <h4>Wednesday, October 14 (PM): Python Part 1</h4>
     <table class="table table-striped">
-      <tr> <td>13:00</td>  <td>Python</td> </tr>
-      <tr> <td>14:30</td>  <td>Morning break</td> </tr>
-      <tr> <td>14:45</td>  <td>Python (Continued)</td> </tr>
+      <tr> <td>13:00</td>  <td>Variables</td> </tr>
+      <tr> <td></td>  <td>Types and Conversions</td> </tr>
+      <tr> <td></td>Indexing and slicing strings and lists</tr>
+      <tr> <td></td>Dictionaries</tr>
+      <tr> <td></td>Loops and Conditionals</tr>
       <tr> <td>16:15</td>  <td>Wrap-up</td> </tr>
       <tr> <td>16:30</td>  <td>END</td> </tr>
     </table>
@@ -389,9 +391,11 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
   <div class="col-md-6">
     <h4>Thursday, October 15 (AM): Python Part 2</h4>
     <table class="table table-striped">
-      <tr> <td>09:00</td>  <td>Python</td> </tr>
-      <tr> <td>10:15</td>  <td>Morning break</td> </tr>
-      <tr> <td>10:30</td>  <td>Python (Continued)</td> </tr>
+      <tr> <td>09:00</td>  <td>Working with Pandas and DataFrames</td> </tr>
+      <tr> <td></td>  <td>Indexing and slicing DataFrames</td> </tr>
+      <tr> <td></td>  <td>Subsetting and aggregating data</td> </tr>
+      <tr> <td></td>  <td>Boolean expressions</td> </tr>
+      <tr> <td></td>  <td>Grouping and plotting</td> </tr>
       <tr> <td>11:30</td>  <td>Final Wrap-up<br><a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank">Post-workshop Survey</a></td> </tr>
       <tr> <td>12:00</td>  <td>END</td> </tr>
     </table>
