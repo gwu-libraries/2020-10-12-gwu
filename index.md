@@ -327,7 +327,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 <h3>Bash + Git -- Monday PM/Tuesday AM cohort</h3>
 <div class="row">
   <div class="col-md-6">
-    <h4>Monday, October 12: Automating Tasks with the Unix Shell</h4>
+    <h4>Monday, October 12 (PM): Automating Tasks with the Unix Shell</h4>
     <table class="table table-striped">
       <tr> <td>Before</td> <td><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop survey</a> </td> </tr>
       <tr> <td>13:00</td>  <td>Automating Tasks with the Unix Shell</td> </tr>
@@ -338,7 +338,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
     </table>
   </div>
   <div class="col-md-6">
-    <h4>Tuesday, October 13: Version Control with Git</h4>
+    <h4>Tuesday, October 13 (AM): Version Control with Git</h4>
     <table class="table table-striped">
       <tr> <td>09:00</td>  <td>Version Control with Git</td> </tr>
       <tr> <td>10:15</td>  <td>Morning break</td> </tr>
