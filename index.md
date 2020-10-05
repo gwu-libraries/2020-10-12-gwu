@@ -380,10 +380,10 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
     <h4>Wednesday, October 14 (PM): Python Part 1</h4>
     <table class="table table-striped">
       <tr> <td>13:00</td> <td>Variables</td> </tr>
-      <tr> <td></td> <td>Types and Conversions</td> </tr>
+      <tr> <td></td> <td>Types and conversions</td> </tr>
       <tr> <td></td> <td>Indexing and slicing strings and lists</td></tr>
       <tr> <td></td> <td>Dictionaries</td></tr>
-      <tr> <td></td> <td>Loops and Conditionals</td></tr>
+      <tr> <td></td> <td>Loops and conditionals</td></tr>
       <tr> <td>16:15</td> <td>Wrap-up</td> </tr>
       <tr> <td>16:30</td> <td>END</td> </tr>
     </table>
@@ -407,9 +407,9 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
   <div class="col-md-6">
     <h4>Wednesday, October 14 (PM): R Part 1</h4>
     <table class="table table-striped">
-      <tr> <td>13:00</td>  <td>R </td> </tr>
-      <tr> <td>14:30</td>  <td>Morning break</td> </tr>
-      <tr> <td>14:45</td>  <td>R (Continued)</td> </tr>
+      <tr> <td>13:00</td>  <td><a href="https://datacarpentry.org/r-socialsci/00-intro/index.html">Overview of R and RStudio</a></td> </tr>
+      <tr> <td></td>  <td><a href="https://datacarpentry.org/r-socialsci/01-intro-to-r/index.html">Introduction to R</a></td> </tr>
+      <tr> <td></td>  <td><a href="https://datacarpentry.org/r-socialsci/02-starting-with-data/index.html">Starting with Data</a></td> </tr>
       <tr> <td>16:15</td>  <td>Wrap-up</td> </tr>
       <tr> <td>16:30</td>  <td>END</td> </tr>
     </table>
@@ -417,9 +417,8 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
   <div class="col-md-6">
     <h4>Thursday, October 15 (AM): R Part 2</h4>
     <table class="table table-striped">
-      <tr> <td>09:00</td>  <td>R</td> </tr>
-      <tr> <td>10:15</td>  <td>Morning break</td> </tr>
-      <tr> <td>10:30</td>  <td>R (Continued)</td> </tr>
+      <tr> <td>09:00</td>  <td><a href="https://datacarpentry.org/r-socialsci/03-dplyr-tidyr/index.html">Manipulating Data Frames with <code>dplyr</code></a></td> </tr>
+      <tr> <td>10:30</td>  <td><a href="https://datacarpentry.org/r-socialsci/04-ggplot2/index.html">Data Visualisation with <code>ggplot2</code></a></td> </tr>
       <tr> <td>11:30</td>  <td>Final Wrap-up<br><a href="{{ site.post_survey }}{{ site.github.project_title }}" target="_blank">Post-workshop Survey</a></td> </tr>
       <tr> <td>12:00</td>  <td>END</td> </tr>
     </table>
