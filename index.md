@@ -324,6 +324,14 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 {% endcomment %}
 <h2 id="schedule">Schedule</h2>
 
+<h3>Bash + Git -- Monday PM/Tuesday AM cohort</h3>
+
+<h3>Bash + Git -- Tuesday AM/Tuesday PM cohort</h3>
+
+<h3>Python track -- Wednesday PM/Thursday AM</h3>
+
+<h3>R track -- Wednesday PM/Thursday AM</h3>
+
 {% if site.carpentry == "swc" %}
 {% include swc/schedule.html %}
 {% elsif site.carpentry == "dc" %}
