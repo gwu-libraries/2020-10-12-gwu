@@ -321,6 +321,10 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 <h2 id="schedule">Schedule</h2>
 
 <h3>Bash + Git -- Monday PM/Tuesday AM cohort</h3>
+<h4 id="collaborative_notes">Collaborative Notes</h4>
+<p>
+We will use this <a href="https://pad.carpentries.org/gw_oct20_bash1">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code in this pair of sessions.
+</p>
 <div class="row">
   <div class="col-md-6">
     <h4>Monday, October 12 (PM): Automating Tasks with the Unix Shell</h4>
@@ -346,6 +350,10 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 </div>
 
 <h3>Bash + Git -- Tuesday AM/Tuesday PM cohort</h3>
+<h4 id="collaborative_notes">Collaborative Notes</h4>
+<p>
+We will use this <a href="https://pad.carpentries.org/gw_oct20_bash2">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code in this pair of sessions.
+</p>
 <div class="row">
   <div class="col-md-6">
     <h4>Tuesday, October 13 (AM): Automating Tasks with the Unix Shell</h4>
@@ -371,6 +379,10 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 </div>
 
 <h3>Python track -- Wednesday PM/Thursday AM</h3>
+<h4 id="collaborative_notes">Collaborative Notes</h4>
+<p>
+We will use this <a href="https://pad.carpentries.org/gw_oct20_python">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code for the Python sessions.
+</p>
 <div class="row">
   <div class="col-md-6">
     <h4>Wednesday, October 14 (PM): Python Part 1</h4>
@@ -399,6 +411,10 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 </div>
 
 <h3>R track -- Wednesday PM/Thursday AM</h3>
+<h4 id="collaborative_notes">Collaborative Notes</h4>
+<p>
+We will use this <a href="https://pad.carpentries.org/gw_oct20_r">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code for the R sessions.
+</p>
 <div class="row">
   <div class="col-md-6">
     <h4>Wednesday, October 14 (PM): R Part 1</h4>
